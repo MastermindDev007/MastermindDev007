@@ -52,16 +52,6 @@ Currently exploring:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MastermindDev007&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MastermindDev007&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MastermindDev007&theme=tokyonight)
-
----
-
 ## 🔥 Featured Projects
 
 ### 🌐 Personal Portfolio
