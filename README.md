@@ -1,16 +1,121 @@
-## Hi there 👋
+# 💀 Dev Davda
 
-<!--
-**MastermindDev007/MastermindDev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Frontend Engineer | Laravel Developer
 
-Here are some ideas to get you started:
+Building scalable web applications, modern frontend experiences, and performance-focused systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Jamnagar, Gujarat, India
+
+---
+
+## 🚀 About Me
+
+I'm a Full Stack Developer focused on building responsive, scalable, and production-ready web applications.
+
+My work ranges from frontend UI engineering and micro-interactions to backend development using Laravel, PHP, Python, APIs, and database systems.
+
+Currently exploring:
+
+* Advanced React Development
+* AWS Cloud
+* Backend Architecture
+* Performance Optimization
+* Modern UI/UX Systems
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Featured Projects
+
+### 🌐 Personal Portfolio
+
+Showcases development experience, technical skills, project collection, and professional profile.
+
+### 🛒 E-Commerce Systems
+
+Amazon-style ecommerce implementations with cart functionality and modern UI patterns.
+
+### 🎬 Entertainment Platforms
+
+Netflix and YouTube inspired interfaces with responsive layouts and interactive experiences.
+
+### 📈 Dashboard Applications
+
+Finance dashboards, analytics interfaces, and data visualization systems.
+
+### ⚡ UI Experiments
+
+3D animations, hover effects, loaders, micro-interactions, and frontend component systems.
+
+---
+
+## 🏢 Experience
+
+### Full Stack Developer
+
+Mehta Websolution
+
+* Performance optimization
+* Responsive frontend implementation
+* Laravel development
+* Production debugging
+* API integrations
+
+### PHP Developer Intern
+
+* PHP development
+* Backend maintenance
+* Feature implementation
+* Bug fixing
+
+---
+
+## 🌎 Connect With Me
+
+Portfolio:
+https://masterminddev.com
+
+LinkedIn:
+https://www.linkedin.com/in/dev-davda-ab8378239/
+
+Email:
+[devndavda59425@gmail.com](mailto:devndavda59425@gmail.com)
+
+---
+
+> Building products. Solving bugs. Shipping code.
