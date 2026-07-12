@@ -115,7 +115,7 @@ Finance dashboards, analytics interfaces, and data visualization systems.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MastermindDev007&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MastermindDev007&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MastermindDev007&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
