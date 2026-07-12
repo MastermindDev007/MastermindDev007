@@ -119,8 +119,11 @@ Finance dashboards, analytics interfaces, and data visualization systems.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MastermindDev007&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
-<br/>
+
 
 <div align="center">
   <i>Building products. Solving bugs. Shipping code. 🚀</i>
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=MastermindDev007&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
